@@ -2189,7 +2189,7 @@
           {
             "contract": "BANGModule",
             "label": "bang",
-            "type": "t_contract(IBANG)5040",
+            "type": "t_contract(IBANG)5072",
             "src": "contracts/lib/BANGModule.sol:9"
           },
           {
@@ -2248,7 +2248,7 @@
           "t_array(t_uint256)45_storage": {
             "label": "uint256[45]"
           },
-          "t_contract(IBANG)5040": {
+          "t_contract(IBANG)5072": {
             "label": "contract IBANG"
           },
           "t_array(t_uint256)50_storage": {
